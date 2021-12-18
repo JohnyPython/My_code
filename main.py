@@ -115,7 +115,7 @@ else:
 
 # second variant
 
-int_num = 3333
+int_num = 4444
 max_num = int_num % 10
 int_num = int_num // 10
 
